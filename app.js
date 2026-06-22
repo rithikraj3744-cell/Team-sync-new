@@ -3,13 +3,13 @@
    Get it: Firebase Console → Project Settings → Your apps → Web app
    ⚠  Replace ALL 6 values below with your real project values
 ════════════════════════════════════════════════════════════ */
-const FIREBASE_CONFIG = {
-  apiKey: "AIzaSyBodhMATYuMKmnioEUziKrE2_rRZFWa_fc",
-  authDomain: "teamsync03-3d5fc.firebaseapp.com",
-  projectId: "teamsync03-3d5fc",
-  storageBucket: "teamsync03-3d5fc.firebasestorage.app",
-  messagingSenderId: "983918066218",
-  appId: "1:983918066218:web:782b641e10a70cc404e153"
+const firebaseConfig = {
+  apiKey: "AIzaSyDlkeDeTSoQA40n4fXVf6KoamWrxJKlB5o",
+  authDomain: "teamsync01-e81ca.firebaseapp.com",
+  projectId: "teamsync01-e81ca",
+  storageBucket: "teamsync01-e81ca.firebasestorage.app",
+  messagingSenderId: "607446961124",
+  appId: "1:607446961124:web:e238a3b999e189b0a955f1"
 };
 /* ════════════════════════════════════════════════════════════
    DATA & CONSTANTS
